@@ -1,0 +1,15 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:Open-SU/docs.git
+[submodule "event-service"]
+	path = event-service
+	url = git@github.com:Open-SU/event-service.git
+[submodule "stock-service"]
+	path = stock-service
+	url = git@github.com:Open-SU/stock-service.git
+[submodule "ticket-service"]
+	path = ticket-service
+	url = git@github.com:Open-SU/ticket-service.git
+[submodule "shared"]
+	path = shared
+	url = git@github.com:Open-SU/shared.git
